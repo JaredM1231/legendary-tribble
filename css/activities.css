@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+body {
+  text-align: center;
+  margin-top: 30px;
+  font-family: 'Poppins', sans-serif;
+  background-color: #FFE4EA;
+  color: #8B3A4A;
+}
+#activityquestion {
+  font-size: 50px;
+  margin-bottom: 30px;
+  color: #F26A8D;
+}
+.activity-item {
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top;
+  color: #8B3A4A;
+}
+.activity-item img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid #ff9494;
+  object-fit: cover;
+  padding: 10px;
+}
+.activity-item label {
+  display: block;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+.button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 10px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 20px;
+  background-color: #E85D75;
+  color: #FFFFFF;
+  border-radius: 12px;
+  border: 2px solid #ffe3e1;
+}
+.button:hover {
+  background-color: #F4B8C2;
+  color: #7A1F2B;
+  border-color: #EFA3B3;
+  box-shadow: 0 4px 10px rgba(122, 31, 43, 0.25);
+}
