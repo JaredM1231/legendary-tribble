@@ -11,6 +11,9 @@ I can say that I have really customised this project for my girlfriend and stuff
 ## Composition
 
 This whole program is essentially basic and follows 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
+
+## How to View this page
+
