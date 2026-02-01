@@ -7,3 +7,10 @@ Valentine's day Proposal.  Ask someone to be you valentine and everytime they cl
 So this entire Valentine's day Proposal Idea came from me checking a reel, it is essesntially a website based application where the user is presented with the question "Will you be my valentine" with 2 options; A "Yes" or "No". A cute addition to this project is the interactivity and the reaction with clicking No. Again a Huge thank you to "mehedyhassanratu" for giving me some inspiration to this project. This is one of my first projects soooo yeaaa
 
 I can say that I have really customised this project for my girlfriend and stuff around me here in India, please do feel free to take this code and modify it however you would like to do soo
+
+## Composition
+
+This whole program is essentially basic and follows 
+-HTML
+-CSS
+-JavaScript
