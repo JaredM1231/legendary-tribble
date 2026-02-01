@@ -17,4 +17,4 @@ This whole program is essentially basic and follows
 
 ## How to View this page
 
-To basically access this page just click on this link jaredm1231.github.io/legendary-tribble/ and enjoyyyy
+To basically access this page just click on this link https://jaredm1231.github.io/legendary-tribble/ and enjoyyyy
